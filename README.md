@@ -26,13 +26,10 @@ python --version
 ### Installation & Run
 
 1. **Clone or download** this repository to your local machine.
-2. **Navigate** to the project directory:
-   ```bash
-   cd path/to/project
-   ```
+2. **Open** the project in VS Code.
 3. **Execute** the script:
    ```bash
-   python level_3.16.py
+   level_3.16.py
    ```
 
 ---
